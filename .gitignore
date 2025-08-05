@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# MacOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+develop-eggs/
+
+# PyInstaller
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Data files (adjust patterns as needed)
+data/
+*.csv
+*.parquet
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.tif
+*.zip
+*.geojson
+*.qgz
+*data/*
+*.docx
+
+# PyCharm settings
+
+*.idea/
